@@ -17,6 +17,6 @@ Tanggal acuan pengujian dan perhitungan usia: **14 Oktober 2026**.
 Beberapa expected output ditulis berdasarkan spesifikasi soal. Pesan kesalahan aktual dapat berbeda sesuai implementasi aplikasi.
 
 ## Identitas Mahasiswa
-- Nama: [Isi nama]
-- NIM: [Isi NIM]
-- Kelas: [Isi kelas]
+- Nama: Angga Firmansyah
+- NIM: 3224602
+- Kelas: Reguler Sore
